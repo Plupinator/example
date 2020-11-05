@@ -7,7 +7,7 @@ Delivery of high value applications through collaboration, shared knowledge, and
 
  
 
-Product Overview 
+Product Overview -- FUTURE CONTRACTS!!!
 
 The new Contract Savings module (aka Project x aka Supply Analytics tool) presents members and those acting on behalf of our members, contract savings opportunities. It leverages hospital submitted spend data and supplier reported PRS data to show opportunities from low effort to high effort, categories where a member could save money without changing anything, just by activating a contract or more complex opportunities that involve changing their buying pattern, to convert supplier spend to contracts with higher savings.  
 
