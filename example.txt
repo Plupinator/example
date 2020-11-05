@@ -1,0 +1,561 @@
+Imagineers Team Agreement  
+
+ 
+
+Vision 
+Delivery of high value applications through collaboration, shared knowledge, and respect by remaining humble, hungry and perceptive.  
+
+ 
+
+Product Overview 
+
+The new Contract Savings module (aka Project x aka Supply Analytics tool) presents members and those acting on behalf of our members, contract savings opportunities. It leverages hospital submitted spend data and supplier reported PRS data to show opportunities from low effort to high effort, categories where a member could save money without changing anything, just by activating a contract or more complex opportunities that involve changing their buying pattern, to convert supplier spend to contracts with higher savings.  
+
+ 
+
+The key component of the tool is the Contract Optimizer that shows members their opportunities on all available Vizient contracts. This is very different from our previous Supply Analytics tools that only presented one contract for the member to use. 
+
+ 
+
+Please reference the Quick Reference User Guide located in MS Teams here 
+
+  
+
+Team Structure 
+
+Hybrid of Scrum and Kanban 
+
+Using Scrum, while viewing the current sprint in ADO 
+
+Using Kanban pull system when the need arises 
+
+  
+
+Team Norms 
+
+Core hours of availability: 9:00am – 4:00pm, Monday – Friday 
+
+Exception: holidays, vacations, etc. 
+
+After hours, refer to offline contact list in Teams (Project X) or WhatsApp group 
+
+  
+
+Page Break
+ 
+
+Communication/Documentation 
+
+Use Teams as primary communication method 
+
+If team discussion, while in-office, chat in person (team scrum room/area) 
+
+If urgent (showstopper, high importance) – phone call (MS Teams) 
+
+If quick question or clarification – IM (MS Teams) 
+
+If all else fails – set a meeting 
+
+Use Discussion field in ADO for story-specific discussions 
+
+All meetings to include MS Teams call link  
+
+Informal Release discussion in MS Teams 
+
+Contact both members of a pair (see Teams for daily pairings) 
+
+Pairings to be logged daily in Imagineers à Parrit channel 
+
+Send out of office notifications to the team 
+
+See out of office notification guidelines stored in MS Teams – future revisit 
+
+Store technical and team documentation in MS Teams/Confluence 
+
+Phone/conference call etiquette: 
+
+Mute when not speaking 
+
+Make sure voice quality is clear 
+
+If hand is raised, they speak next 
+
+Team Celebrations  
+
+Team will decide how annual allotment will be utilized ($150/quarter, $600/yr) 
+
+  
+
+Conflict Resolution  
+
+Respectful verbal one on one conversation (all involved parties) 
+
+Get advice from SM, EO, or BRM 
+
+Add resource manager 
+
+  
+
+Roles 
+
+Business Analyst (BA) – Nancy Selvanathan – first contact/escalation point for requirements 
+
+ScrumMaster (SM) – Toni Warden – first escalation point for impediments and conflict, servant-leader of team 
+
+Team will share SM responsibilities when SM is out of office 
+
+Lead Developer – Rahul Singh – first contact for dev issues/questions, release lead, leads team devs 
+
+Lead Quality Assurance Engineer – Ravindra (Ravi) Akurati – first contact for QA issues/questions, release validation lead, leads team QA engineers 
+
+Product Owner (PO) – Holly Smith – SCA - 2nd escalation/contact point for requirements  
+(BA is 1st) 
+
+Delivers the quarterly feature requests to the team at least 20 business days prior to the submission of the teams' quarterly planning presentation to give ample time for team discussions, estimations, etc. 
+
+Provides sprint goal at beginning of sprint planning meetings  
+
+Attends standups 2-3 minimum per week 
+
+Owns backlog content and prioritization 
+
+Product Owner (PO) – Brent Molloy – VSA 
+ 
+
+Developer – Owns and develops application code, branching/merging 
+
+Rahul Singh (lead) 
+
+Amar Nagender Mondeddula (lead back-up) 
+
+Sujatha Kannan  
+
+Subha Prattipati 
+
+Kyle Kirchenbauer 
+
+Michael Owusu-Peprah 
+
+Philip Kestell 
+
+Shea Luikar 
+
+Roger Beasley 
+
+Lawrence Kubi 
+
+Keith Teal 
+
+Sirisha Thiyyagura 
+
+Chanchal Jain 
+
+Quality Assurance Engineer (QAE) – Validates code, UI, backend, creates automation with all new development 
+
+Ravi Akurati (lead) 
+
+Tom Ehmann (DA/QA) 
+
+Tonya Wilson 
+
+Kenny Abiola 
+
+Tina Egbuono 
+
+Engineering Owner (EO) – Benjee Osei – Staffing, block lifter (2nd level), mentors engineering practices, 2nd level escalation point, liaison with Ops 
+
+Subject Matter Expert (SME) – Assists team with technology, domain knowledge, etc. 
+
+Murthy Yerramchetty – MicroStrategy  
+
+Margaret Lonappan – Methodology and backup PO for Kamala 
+
+Siva Desaraju - Architect 
+
+Seth Feldman – Database 
+
+Kamala Mahalingam - SME 
+
+Other Experts 
+
+Wes Brown – Systems Engineer (Ops) - 1st point of contact software support, etc. 
+
+Keith Black – Infrastructure Engineer (Security)  
+
+Aislinn, Matt A (mgr) – Exadata DBAs 
+
+Spencer Dugan – Change Management 
+
+Dave Harris – ECR approver 
+
+Stakeholders – Have a vested interest in the project 
+
+Troy Kirchenbauer – Executive Sponsor 
+
+Melanie Polston/Sam Moussa – Business Relationship Manager 
+
+Benjamin (Benjee) Osei – Engineering Owner  
+
+Brent Molloy – Project Strategy Manager (PSM) – new app/enhancement requests 
+
+Page Break
+ 
+
+Team Events/Ceremonies 
+
+Daily Scrum (Focus: synchronization of the team on a daily basis) 
+
+Scrum starts at 9:35 am and will always begin on time. 
+
+Team has 15 minutes to answer the following questions and discuss parking lot: 
+
+What I accomplished yesterday? (include story name/number/rank) 
+
+What I plan to accomplish today? (include story name/number/rank) 
+
+What are my blocks/impediments? 
+
+Save questions for parking lot 
+
+Attend in person if in the building 
+
+Team will remain standing 
+
+Clear and concise communication  
+
+make sure those on the phone can hear 
+
+No distractions – electronic or otherwise 
+
+All updates (tasks, etc.) in ADO should be completed prior to standup 
+
+Daily pairings will be designated after scrum updates via Parrit 
+
+To see daily pairing use Parrit app (pwd: Star1234) 
+
+Required attendees: 
+BA, Developers, QAEs, SM, PO. If unable to attend a daily scrum, an email update will be sent prior to scrum. 
+
+Optional attendees: 
+EO, BRM, DBA, resource managers, Agile coaches/manager, SMEs, cross-teams, other stakeholders 
+
+Refinement (focus: To move backlog items into the “Definition of Ready” state) 
+
+Will always begin on time 
+
+Team members will review stories before refinement sessions 
+
+BA will send list of stories to be reviewed beforehand 
+
+Review un-pointed stories and bugs first 
+
+Spikes where expertise is needed 
+
+Tech debt 
+
+Refinement will occur twice per sprint 
+
+Each refinement session will last no more than 2 hours 
+
+Basic story info and priority should be included before refining 
+
+Stand-alone bugs should be backlogged, refined and prioritized 
+
+Story estimates will be based on story complexity, risk, and amount of work 
+
+Will use relative sizing and planning poker 
+
+Estimates include the entire body of work (definition of done) 
+
+Keep solutioning discussions to high-level  
+
+Use working sessions for deep dive solutioning 
+
+Timer will be used when needed (spending too much time solutioning/discussing/pointing) 
+
+Required attendees: 
+BA, Developers, QAEs, SM, PO 
+
+Optional attendees: 
+EO, BRM, cross-team representation (eg: Sourcerers) 
+
+Sprint Planning (Focus: Commitment of Backlog items to deliver) 
+
+Sprint Planning will occur on the first day of the Sprint and will always begin on time 
+
+If the first day of the Sprint is a holiday, Sprint Planning will be move to the next or previous business day 
+
+User Stories & Defects for Sprint consideration will include only those in the “Ready” state 
+
+User Stories & Defects for Sprint consideration must be prioritized 
+
+Agreement is reached on how we will deliver the sprint commitment  
+
+Via the team tasking out of the User Stories & Defects 
+
+New stories (ie: prod/UAT support) or stand-alone bugs will only be brought into a sprint after negotiation with PO for story swap 
+
+If Devs run out of work: 
+
+Check with team to finish planned work. If no help needed, 
+
+Check for stretch goal stories in the Ready lane. If none,  
+
+Check with BA  
+
+Stories planned will be based on priority and velocity. Team adjust/adapt moving forward 
+
+We can always add more stories as long as sprint will be completed 
+
+Tasking to be done by EOD after sprint planning 
+
+Must include estimated hours to complete, AND hours remaining 
+
+Sprint Capacity Planning (occurs at beginning of sprint planning): 
+
+Capacity time is 6 hours/day, and 9 days per sprint minus holidays, PTO, etc. (54hrs max per team member) 
+
+Team capacity assignments will include review of team member availability during Sprint window. This capacity has potential to be impacted by other meetings and time out of the office. 
+
+Required attendees: 
+BA, Developers, QAEs, SM, PO. We will not be able to move forward with Sprint Planning if at least one representative from each is not present. 
+
+Optional attendees: 
+EO, BRM, cross-team representative, other stakeholders 
+
+ 
+
+ 
+
+ 
+
+Sprint Retrospective (focus: Inspect & adapt, continuous improvement of team) 
+
+Will always begin on time 
+
+Feedback to be posted in ADO before meeting begins 
+
+Team to review RetroViz a.s.a.p. 
+
+Discussion will include: 
+
+What went well 
+
+What we can do better 
+
+Other discussion topics 
+
+At least one action item will be created for team improvement 
+
+Update Team Agreement as needed (SM) 
+
+Required Attendees: 
+BA, Developers, QAEs, SM, PO 
+
+Optional Attendees: 
+EO, BRM 
+
+Sprint Review (focus: Show & Tell for the stakeholders; what was accomplished during the Sprint) 
+
+Presenters to use story Acceptance Criteria as “script” for demo 
+
+Team will speak to stories that cannot be demoed in the traditional sense, giving the stakeholders a chance to ask questions 
+
+Present live demo when possible 
+
+Present in Test/QA environment – discuss possible UAT demo in future 
+
+Required attendees: 
+BA, Developers, QAEs, SM, PO, BRM, identified stakeholders 
+
+Optional attendees: 
+Cross-team representative(s) 
+
+Technical Practices 
+ 
+
+Product Development must include 
+
+Automated unit test cases by development for 
+
+Angular 
+
+Java 
+
+Manual unit testing for 
+
+Angular 
+
+Java 
+
+MSTR 
+
+DB 
+
+Automation scripts 
+ 
+
+ 
+
+Code management  
+
+Release branch = working copy of code 
+
+For Java and Angular, follow Gitflow 
+
+Master branch = prod copy of code 
+
+Merge Release branch with Master branch after release 
+ 
+
+Release management 
+
+Monday morning before demo, release is pulled and deployed to Test 
+
+UAT Releases every other week on Tuesday afternoon before demo day 
+
+Prod Releases every other week the Thursday after demo 
+
+Release notes – need more info 
+
+SM creates CRs, team and BRM will back up SM  
+
+Devs and QAEs to provide task and other technical details by noon Tuesday before release 
+
+Prod validations – via automation and manual methods by QAEs 
+
+Procedure for moving stories across environments 
+
+Refer to release steps in Confluence 
+
+  
+
+Bugs 
+
+If AC is met, but issue is discovered during QA – stand-alone 
+
+Stand-alone bugs should be backlogged, refined and prioritized 
+
+If AC cannot be met due to issue discovered during QA – child bug 
+
+Story will be tagged as “Bug Active” and moved to In Progress, name changed to original developer 
+
+Add bug details (with @tag to developer) to Discussion field within the story 
+
+Will call-out in standup 
+
+Missed requirements will require a new story 
+
+UAT Triage/Management: 
+
+Use Teams for UAT discussions and bug notifications (“UAT Bugs and Issues” channel has been added under Imagineers channel) 
+
+Leads to subscribe (recommend entire team) and will radiate to team/BA as needed 
+
+Use @ call-outs to bring in additional people to a conversation 
+
+If urgent, reach out to BA so she can negotiate with the PO on story swap 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Definition of Done/Ready 
+
+Definition of “Ready” – for Sprint Planning 
+
+Fully groomed, estimated, prioritized 
+
+Includes Title, Description and Acceptance Criteria 
+
+No block 
+
+Development stories should be linked to a Feature  
+
+No known prohibitive dependencies 
+
+Meets INVEST model? 
+
+ 
+
+Definition of “Ready” – for a Release 
+
+Open Defects related to the Release must be approved by the PO 
+
+UAT for Features must be completed a minimum of 2 business days prior to the Production ‘Go Live’ date - review 
+
+Stage testing must be completed by noon on the day of the release 
+
+Agreement on what will / will not be in the Release or agreement on ‘Go Forward’ plan based on UAT/stage testing results 
+
+Release Notes completed prior to release to stage 
+
+Production change request has been submitted and is approved 
+
+All User Stories must be in an ‘Accepted’ state that are going into the Release 
+
+Release date communicated to all stakeholders 
+
+Populate Software Release# in story 
+
+ 
+
+Definition of “Done” – for a Sprint 
+
+Development story has been developed, unit tested, QA’d, and reviewed (code reviews, etc.) 
+
+Story is not done if there is a child bug active, unless accepted as is by BA and/or PO (will create/convert a stand-alone bug) 
+
+Spike story analysis results has been captured in the story  
+
+All tasks marked as completed  
+
+Story is accepted by PO or PO proxy (often via demo) 
+
+ 
+
+Definition of “Done” – for a Release 
+
+PO and stakeholders accepted completed stories 
+
+The Scrum Team has provided a ‘Go’ decision 
+
+QA smoke tests pass in UAT & Production 
+
+QA general functionality tests pass in UAT & Production 
+
+Change ticket is closed if applicable 
+
+ 
+
+Agreement Maintenance 
+
+Agreed by all team members 
+
+Formal review every quarter 
+
+Informal updates as result of retrospectives 
+
+Will review with new team members 
+
+Include revision date in footer 
+
+ 
+
+ 
+
+Agreed by: 
+
+Toni Warden, Philip Kestell, Tom Ehmann, Roger Beasley, Nancy Selvanathan, Keith Teal, Sirisha Thiyyagura, Rahul Singh, Chanchal Jain, Holly Smith, Shea Luikart, Lawrence Kubi, Sujatha Kannan, Ravi Akurati, Tonya Wilson, Kenny Abiola, Michael Abiola 
+
+ 
+
+Need: Subha Prattipati 
